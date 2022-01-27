@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "24950681775",
+    "project_id": "enter-28ce5",
+    "storage_bucket": "enter-28ce5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:24950681775:android:12dd4cbd01184d360da45a",
+        "android_client_info": {
+          "package_name": "is.gravendef.enter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "24950681775-69nll97odaoq0o7rh7p08q158g290nam.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCskdV1WJ7r4ekeb8W3tZP78j1nOdPC4rE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "24950681775-69nll97odaoq0o7rh7p08q158g290nam.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
